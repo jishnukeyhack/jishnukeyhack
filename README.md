@@ -2,12 +2,23 @@
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jishnu.chauhan/)  
-[![LinkedIn](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jishnu-chauhan-87624b36a/)  
-[![YouTube](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCb_2hzjXTf0hCGIQoNhBjaQ)  
-[![Gmail](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jishnu.chauhan6@mail.com)
+<p align="left">
+  <a href="https://www.instagram.com/jishnu.chauhan/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jishnu-chauhan-87624b36a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCb_2hzjXTf0hCGIQoNhBjaQ" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
+  </a>
+  <a href="mailto:jishnu.chauhan6@mail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+</p>
+
 
  
 
