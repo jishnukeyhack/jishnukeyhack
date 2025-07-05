@@ -4,10 +4,11 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jishnu.chauhan/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnu-chauhan-87624b36a/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCb_2hzjXTf0hCGIQoNhBjaQ)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jishnu.chauhan6@mail.com)
+[![Instagram](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jishnu.chauhan/)  
+[![LinkedIn](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jishnu-chauhan-87624b36a/)  
+[![YouTube](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCb_2hzjXTf0hCGIQoNhBjaQ)  
+[![Gmail](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jishnu.chauhan6@mail.com)
+
  
 
 # 💻 Tech Stack:
